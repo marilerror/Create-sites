@@ -1,0 +1,58 @@
+@media(max-width:768px) {
+    .rightmenu a {
+        display: block;
+        width: auto;
+    }
+    .left{
+        width: 90%;
+    }
+    .rigth{
+        width: 90%;
+    }
+    .rigth img{
+        width: 100%;
+    }
+    .quality_item {
+        margin-left: 0;
+        width: 90%;
+        margin: 15px auto;
+    }
+    .quality_item:nth-child(2) {
+        margin: 15px auto;
+    }
+    .firstpart h1 {
+    font-size: 58px;
+    }
+    .right {
+    display: none;
+    }
+    .uslugi_item {
+        width: 90%;
+    }
+    .rightmenu a{
+        display: inline;
+        margin-left: 10px;
+    }
+    .logo {
+        width: 20%;
+    }
+    .about {
+        padding: 55px 10px;
+        text-align: center;
+    }
+    .left {
+        width: 100%;
+        text-align: center;
+    }
+    .left p {
+       width: 90%;
+       margin: 0 auto;
+        font-size: 18px;
+    }
+    .quality, .todo, .uslugi, .work {
+        padding: 50px 0;
+    }
+    .work_image img {
+        width: 90%;
+    }
+}
